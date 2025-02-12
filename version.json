@@ -11,7 +11,7 @@
             "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.6/ollama-windows-amd64.zip",
             "arm64": "NONE"
         }
-    },
+    }
     "0.5.5": {
         "Linux": {
             "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.5/ollama-linux-amd64.tgz",
