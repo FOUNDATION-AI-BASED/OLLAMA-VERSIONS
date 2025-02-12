@@ -12,4 +12,677 @@
             "arm64": "NONE"
         }
     }
+
+{
+    "0.5.5": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.5/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.5/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.5.5/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.5/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.5/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.5.4": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.4/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.4/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.5.4/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.4/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.4/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.5.3": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.3/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.3/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.5.3/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.3/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.3/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.5.2": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.2/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.2/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.5.2/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.2/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.2/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.5.1": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.1/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.1/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.5.1/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.1/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.1/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.5.0": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.0/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.0/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.5.0/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.0/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.0/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.14": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.14/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.14/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.14/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.14/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.14/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.13": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.13/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.13/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.13/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.13/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.13/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.12": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.12/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.12/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.12/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.12/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.12/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.11": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.11/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.11/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.11/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.11/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.11/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.10": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.10/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.10/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.10/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.10/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.10/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.7": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.7/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.7/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.7/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.7/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.7/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.8": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.8/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.8/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.8/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.8/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.8/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.7": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.7/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.7/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.7/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.7/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.7/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.6": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.6/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.6/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.6/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.6/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.6/ollama-windows-arm64.zip"
+        }
+{
+    "0.4.5": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.5/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.5/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.5/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.5/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.5/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.4": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.4/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.4/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.4/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.4/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.4/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.3": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.3/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.3/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.3/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.3/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.3/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.2": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.2/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.2/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.2/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.2/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.2/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.1": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.1/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.1/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.1/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.1/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.1/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.4.0": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.0/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.0/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.4.0/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.4.0/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.4.0/ollama-windows-arm64.zip"
+            }
+    }
+}
+{
+    "0.3.14": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.14/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.14/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.14/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.14/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.14/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.3.13": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.13/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.13/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.13/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.13/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.13/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.3.12": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.12/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.12/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.12/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.12/ollama-windows-amd64.zip",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.12/ollama-windows-arm64.zip"
+        }
+    }
+
+{
+    "0.3.11": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.11/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.11/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.11/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.11/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.10": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.10/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.10/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.10/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.10/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.9": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.9/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.9/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.9/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.9/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.8": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.8/ollama-linux-amd64.tgz",
+            "arm64": "NONE"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.8/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.8/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.7": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.7/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.7/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.7/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.7/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.6": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.6/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.6/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.6/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.6/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.5": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.5/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.5/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.5/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.5/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.4": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.4/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.4/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.4/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.4/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.3": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.3/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.3/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.3/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.3/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.2": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.2/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.2/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.2/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.2/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.1": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.1/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.1/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.1/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.1/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.3.0": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.0/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.3.0/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.3.0/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.3.0/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.2.8": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.8/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.8/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.2.8/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.8/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.2.7": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.7/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.7/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.2.7/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.7/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.2.6": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.6/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.6/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.2.6/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.6/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.2.5": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.5/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.5/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.2.5/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.5/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.2.4": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.4/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.4/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.2.4/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.4/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.2.3": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.3/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.3/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.2.3/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.3/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.2.2": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.2/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.2/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.2.2/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.2/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+}
+{
+    "0.2.1": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.1/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.1/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.2.1/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.1/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
+
+{
+    "0.2.0": {
+        "Linux": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.0/ollama-linux-amd64.tgz",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.0/ollama-linux-arm64.tgz"
+        },
+        "macOS": {
+            "universal": "https://github.com/ollama/ollama/releases/download/v0.2.0/Ollama-darwin.zip"
+        },
+        "Windows": {
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.0/ollama-windows-amd64.zip",
+            "arm64": "NONE"
+        }
+    }
 }
