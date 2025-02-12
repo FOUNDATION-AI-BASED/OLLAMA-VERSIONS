@@ -1,1 +1,17 @@
-
+{
+    "1.0.1": {
+        "Linux": "http://github.ollama.com/linux/ollama-1.0.1-linux.zip",
+        "macOS": "http://github.ollama.com/macos/ollama-1.0.1-macos.zip",
+        "Windows": "http://github.ollama.com/windows/ollama-1.0.1-windows.zip"
+    },
+    "1.0.0": {
+        "Linux": "http://github.ollama.com/linux/ollama-1.0.0-linux.zip",
+        "macOS": "http://github.ollama.com/macos/ollama-1.0.0-macos.zip",
+        "Windows": "http://github.ollama.com/windows/ollama-1.0.0-windows.zip"
+    },
+    "0.9.5": {
+        "Linux": "http://github.ollama.com/linux/ollama-0.9.5-linux.zip",
+        "macOS": "http://github.ollama.com/macos/ollama-0.9.5-macos.zip",
+        "Windows": "http://github.ollama.com/windows/ollama-0.9.5-windows.zip"
+    }
+}
