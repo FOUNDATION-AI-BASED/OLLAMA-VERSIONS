@@ -12,3 +12,17 @@
             "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.6/ollama-windows-arm64.zip"
         }
     },
+    "1.0.0": {
+        "Linux": {
+            "amd64": "http://github.ollama.com/linux/ollama-1.0.0-linux-amd64.zip",
+            "arm64": "http://github.ollama.com/linux/ollama-1.0.0-linux-arm64.zip"
+        },
+        "macOS": {
+            "universal": "http://github.ollama.com/macos/ollama-1.0.0-macos.zip"
+        },
+        "Windows": {
+            "amd64": "http://github.ollama.com/windows/ollama-1.0.0-windows-amd64.zip",
+            "arm64": "http://github.ollama.com/windows/ollama-1.0.0-windows-arm64.zip"
+        }
+    }
+}
