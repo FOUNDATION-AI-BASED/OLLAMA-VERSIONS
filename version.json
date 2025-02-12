@@ -586,8 +586,8 @@
     },
     "0.2.0": {
         "Linux": {
-            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.0/ollama-linux-amd64.tgz",
-            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.0/ollama-linux-arm64.tgz"
+            "amd64": "https://github.com/ollama/ollama/releases/download/v0.2.0/ollama-linux-amd64",
+            "arm64": "https://github.com/ollama/ollama/releases/download/v0.2.0/ollama-linux-arm64."
         },
         "macOS": {
             "universal": "https://github.com/ollama/ollama/releases/download/v0.2.0/Ollama-darwin.zip"
