@@ -62,9 +62,9 @@
         "Windows": {
             "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.7/ollama-windows-amd64.zip",
             "arm64": "https://github.com/ollama/ollama/releases/download/v0.5.7/ollama-windows-arm64.zip"
-        }
+        },
+        "inf": "Last version that supports older nvidia gpus like the tesla p40!"
     },
-{
     "0.5.6": {
         "Linux": {
             "amd64": "https://github.com/ollama/ollama/releases/download/v0.5.6/ollama-linux-amd64.tgz",
